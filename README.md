@@ -1,6 +1,6 @@
 # spring-cloud-server-config-danim
 
-This project stores the configuration foles to be used by Spring Cloud Config projects.
+This project stores the configuration files to be used by Spring Cloud Config projects.
 
 # Using this configuration repository from Spring Cloud Config client and server
 
